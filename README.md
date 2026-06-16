@@ -57,4 +57,4 @@ FUTURE ENHANCEMENTS
 
 SCREENSHOTS / DEMO
 
-example : https://github.com/NitishKumar-blip/HR-Analytics-Dashboard/blob/main/HR%20Dashboard%20snap.png
+example : ![Dashboard](https://github.com/NitishKumar-blip/HR-Analytics-Dashboard/blob/main/HR%20Dashboard%20snap.png)
